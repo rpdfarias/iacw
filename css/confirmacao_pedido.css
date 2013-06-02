@@ -1,0 +1,98 @@
+/* 
+    Document   : confirmacao_pedido
+    Created on : 24/05/2013, 11:41:39
+    Author     : Rodrigo
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+.titulo {
+  width:520px;
+  height:33px;
+  float:left;
+  padding:0 0 0 40px;
+  margin:0 0 3px 12px;
+  line-height:33px;
+  font-size:12px;
+  color:#847676;
+  font-weight:bold;
+  background:url(../images/bg_center.gif) no-repeat center;
+}
+
+.bloco {
+  float:left;
+	padding-left: 20px;	
+}
+
+.linha {
+	margin: 2px 0 2px 18px;
+}
+
+.confirmacao {
+	width: 550px;
+	font-size:12px;
+  color: cadetblue;
+	float: left;
+  font-weight:bold;
+	text-align: center;
+	padding: 0 0 50px 0;
+}
+
+.tb_head {
+  height:16px;
+  float:left;
+	text-align: center;
+	background-color: #dad0d0;
+  margin:4px 0 0 4px;
+}
+
+.tb_descricao {
+  width:270px;
+}
+
+.tb_excluir {
+  width:50px;
+}
+
+.tb_quantidade {
+  width:73px;
+}
+
+.tb_valor {
+  width:93px;
+}
+
+.tb_total {
+  width:73px;
+}
+
+.mensagem {
+	width: 550px;
+	font-size:12px;
+  color: cadetblue;
+	float: left;
+  font-weight:bold;
+	text-align: center;
+	padding: 0 0 50px 0;
+}
+
+.linha {
+	margin: 2px 0 2px 0;
+}
+
+.cabecalho {
+	color: cadetblue;
+	font-weight: bold;
+	font-size: 12px;
+	padding-right: 3px;
+}
+
+.campo {
+	color: #000;
+	font-weight: normal;
+	font-size: 12px;		
+}

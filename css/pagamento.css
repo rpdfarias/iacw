@@ -1,0 +1,70 @@
+/* 
+    Document   : pagamento
+    Created on : 11/05/2013, 16:52:05
+    Author     : Rodrigo
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+.titulo {
+  width:520px;
+  height:33px;
+  float:left;
+  padding:0 0 0 40px;
+  margin:0 0 3px 12px;
+  line-height:33px;
+  font-size:12px;
+  color:#847676;
+  font-weight:bold;
+  background:url(../images/bg_center.gif) no-repeat center;
+}
+
+.bloco {
+  float:left;
+	padding-left: 20px;	
+}
+
+.linha {
+	margin: 2px 0 2px 0;
+}
+
+.cabecalho {
+	color: cadetblue;
+	font-weight: bold;
+	font-size: 12px;
+	padding-right: 3px;
+}
+
+.campo {
+	color: #000;
+	font-weight: normal;
+	font-size: 12px;		
+}
+
+.botao {
+	margin: 5px 0 5px 0;
+}
+
+.nome {
+	width: 300px;
+}
+
+.numero {
+	width: 125px;
+}
+
+.codigo {
+	width: 40px;
+}
+
+.mes {
+	width: 30px;
+}
+
+.ano {
+	width: 50px;
+}
