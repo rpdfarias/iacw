@@ -29,7 +29,7 @@ and open the template in the editor.
 					<div class="center_prod_box_big">
 						<div class="product_img_big">							
 							<a href="#">
-								<img src="../produtos/laptop1.gif" alt="" title="" border="0" />
+								<img src="produtos/laptop1.gif" alt="" title="" border="0" />
 							</a>
 						</div>						
 						<div class="details_big_box">
